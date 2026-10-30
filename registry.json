@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "signup-buddy",
+  "homepage": "https://github.com/Logiaweb/signup-buddy",
+  "items": [
+    {
+      "name": "signup-buddy",
+      "type": "registry:component",
+      "title": "Signup Buddy",
+      "description": "A sign-up modal with a mascot that watches you type, email code verification, and Google/Apple buttons.",
+      "files": [
+        { "path": "components/signup-buddy/signup-modal.tsx", "type": "registry:component" },
+        { "path": "components/signup-buddy/eye-buddy.tsx", "type": "registry:component" },
+        { "path": "components/signup-buddy/email-code.tsx", "type": "registry:component" },
+        { "path": "components/signup-buddy/index.ts", "type": "registry:component" }
+      ]
+    }
+  ]
+}
