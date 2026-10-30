@@ -2,6 +2,8 @@
 
 A sign-up modal with a little mascot that watches you type.
 
+**[Try the live demo →](https://signup-buddy.vercel.app)**
+
 - Its eyes follow your text cursor, letter by letter
 - It shuts its eyes when you type your password
 - It greets you by name, hops when a step is done, shakes its head at an error
